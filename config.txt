@@ -1,0 +1,6 @@
+/* إعدادات عامة غير سرية. ضع رابط مشروع Supabase ومفتاح anon/public فقط.
+   لا تضع service_role key أو كلمات مرور هنا. */
+window.PARADISE_CONFIG = {
+  url: "https://hodqcgnjmdqkkvmhnjnh.supabase.co/rest/v1/",
+  anonKey: "sb_publishable_JlKtIOYI8bM5PhsA2pKTfg_3orG30H7"
+};
